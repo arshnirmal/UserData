@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\2c3cf618-3ef3-49bb-a43b-ee4e10e61f45.png",
+      "PackagePath": "staticwebassets\\Images\\2c3cf618-3ef3-49bb-a43b-ee4e10e61f45.png"
+    },
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\39786428-18fc-47f5-b6de-973eb590cd2c.png",
+      "PackagePath": "staticwebassets\\Images\\39786428-18fc-47f5-b6de-973eb590cd2c.png"
+    },
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\51f843ea-33c6-4364-b14f-ac74c0b777b1.png",
+      "PackagePath": "staticwebassets\\Images\\51f843ea-33c6-4364-b14f-ac74c0b777b1.png"
+    },
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\6dfda060-3f8e-4c3e-b290-db2a2d8b67db.png",
+      "PackagePath": "staticwebassets\\Images\\6dfda060-3f8e-4c3e-b290-db2a2d8b67db.png"
+    },
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\b2b21ff3-42ef-479b-bdf8-f588ca21a168.png",
+      "PackagePath": "staticwebassets\\Images\\b2b21ff3-42ef-479b-bdf8-f588ca21a168.png"
+    },
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\f3fe43a9-5468-4c7e-8239-9b2c04562cdb.png",
+      "PackagePath": "staticwebassets\\Images\\f3fe43a9-5468-4c7e-8239-9b2c04562cdb.png"
+    },
+    {
+      "Id": "D:\\ArshNirmal\\Training\\DotNet\\UserData\\wwwroot\\Images\\f4b9e9a9-d487-4b1f-a4c6-2bf2f154881b.png",
+      "PackagePath": "staticwebassets\\Images\\f4b9e9a9-d487-4b1f-a4c6-2bf2f154881b.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UserData.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UserData.props",
+      "PackagePath": "build\\UserData.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UserData.props",
+      "PackagePath": "buildMultiTargeting\\UserData.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UserData.props",
+      "PackagePath": "buildTransitive\\UserData.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
